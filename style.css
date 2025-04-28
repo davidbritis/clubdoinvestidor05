@@ -889,12 +889,12 @@ td[data-label="Outras"] {
         width: 100%;
         padding: 20px;
         box-sizing: border-box;
+        text-align: justify;
     }
 
     .hero-section h1 {
         font-size: 30px; /* Reduz o tamanho do título para telas menores */
-        margin-top: 10px;
-        text-align: center;
+        margin-top: 10px;   
     }
 
 
