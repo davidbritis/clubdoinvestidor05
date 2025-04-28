@@ -885,13 +885,16 @@ td[data-label="Outras"] {
         display: flex;
     }
 
+    .hero-section {
+        width: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
     .hero-section h1 {
         font-size: 30px; /* Reduz o tamanho do título para telas menores */
         margin-top: 10px;
         text-align: center;
-        width: 100%;
-        padding: 20px;
-        box-sizing: border-box;
     }
 
 
